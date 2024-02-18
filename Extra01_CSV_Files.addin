@@ -3,7 +3,7 @@
   <AddIn Type="Command">
     <Text>Extra01_CSV-Files - Command 1</Text>
     <Description>Some description for Extra01_CSV-Files</Description>
-    <Assembly>Extra01_CSV_Files.dll</Assembly>
+    <Assembly>Extra01_CSV-Files.dll</Assembly>
     <FullClassName>Extra01_CSV_Files.Command1</FullClassName>
     <ClientId>59544dff-f280-4fea-86e8-bc33e8881a29</ClientId>
     <VendorId>com.YOUR COMPANY NAME</VendorId>
@@ -12,7 +12,7 @@
   <AddIn Type="Command">
     <Text>Extra01_CSV-Files - Command 2</Text>
     <Description>Some description for Extra01_CSV-Files</Description>
-    <Assembly>Extra01_CSV_Files.dll</Assembly>
+    <Assembly>Extra01_CSV-Files.dll</Assembly>
     <FullClassName>Extra01_CSV_Files.Command2</FullClassName>
     <ClientId>18993346-65ac-4206-b1be-d18472624be5</ClientId>
     <VendorId>com.YOUR COMPANY NAME</VendorId>
@@ -20,8 +20,8 @@
   </AddIn>
   <AddIn Type="Application">
     <Name>Extra01_CSV-Files</Name>
-    <Assembly>Extra01_CSV_Files.dll</Assembly>
-    <FullClassName>Extra01_CSV_Files.App</FullClassName>
+    <Assembly>Extra01_CSV-Files.dll</Assembly>
+    <FullClassName>Extra01_CSV-Files.App</FullClassName>
     <ClientId>ab0f6b84-e958-46bc-9200-219e9d9fe140</ClientId>
     <VendorId>com.YOUR COMPANY NAME</VendorId>
     <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
